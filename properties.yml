@@ -1,0 +1,4 @@
+env: local
+appName: Proxy
+httpServer:
+  port: 8080
